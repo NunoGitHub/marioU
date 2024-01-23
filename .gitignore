@@ -1,0 +1,29 @@
+# Arquivos compilados
+Library/
+Temp/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Cache e logs
+Logs/
+Logs/*
+!Logs/Readme.txt
+*.log
+
+# Arquivos gerados por Unity
+Builds/
+Assets/AssetStoreTools*
+Assets/AssetStoreTools/*
+ProjectSettings/ProjectSettings.asset
+ProjectSettings/ProjectSettings.asset.*
+
+# Arquivos gerados durante a execução
+obj/
